@@ -16,7 +16,7 @@ This is a simple Snake Game built using Python.
 1. Install pygame:
    pip install pygame
 2. Run the file:
-   python main.py
+   python Main.py
 
 ## 📌 Author
 Mayur Mane
